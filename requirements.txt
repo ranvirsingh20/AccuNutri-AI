@@ -1,0 +1,6 @@
+streamlit>=1.33.0
+langchain-ollama>=0.1.0
+langchain-huggingface>=0.0.21
+pandas>=2.0.0
+faiss-cpu>=1.7.4
+pillow>=10.0.0
