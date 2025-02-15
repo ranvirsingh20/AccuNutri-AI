@@ -1,8 +1,6 @@
 # AccuNutri AI  
 **AI-Powered Nutrition Analysis from Food Images**  
 
-![Demo](https://via.placeholder.com/600x400?text=Upload+a+meal+to+see+magic!) <!-- Replace with your demo GIF/screenshot -->
-
 AccuNutri AI analyzes food images to provide instant nutritional insights, including **calories, carbs, protein, fat**, and a **health score**. Built with state-of-the-art AI models and designed for accuracy.  
 
 ---
