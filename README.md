@@ -24,6 +24,6 @@ AccuNutri AI analyzes food images to provide instant nutritional insights, inclu
 
 ## Install dependencies:
 pip install -r requirements.txt
----
+
 Run the app:
 streamlit run app.py
