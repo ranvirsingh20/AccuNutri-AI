@@ -17,7 +17,7 @@ AccuNutri AI analyzes food images to provide instant nutritional insights, inclu
 ## ⚙️ Installation  
 1. **Clone the repo**:  
    ```bash
-   git clone https://github.com/your-username/AccuNutri-AI.git](https://github.com/ranvirsingh20/AccuNutri-AI
+   git clone https://github.com/ranvirsingh20/AccuNutri-AI?tab=readme-ov-file
    cd AccuNutri-AI
    
 ---
